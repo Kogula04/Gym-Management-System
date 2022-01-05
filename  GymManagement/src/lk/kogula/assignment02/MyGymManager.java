@@ -3,6 +3,7 @@ package lk.kogula.assignment02;
  * Kogula Kangaiveniyan
  * IIT No: 20191101
  * UoW No: w1790354
+ * Main Functions in MyGymManger class
  */
 
 import java.util.*;
